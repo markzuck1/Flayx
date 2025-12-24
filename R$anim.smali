@@ -1,11 +1,11 @@
-.class public final Lcom/appsflyer/R$anim;
+.class public final Lcom/appsflyer/unity/R$anim;
 .super Ljava/lang/Object;
 .source "SourceFile"
 
 
 # annotations
 .annotation system Ldalvik/annotation/EnclosingClass;
-    value = Lcom/appsflyer/R;
+    value = Lcom/appsflyer/unity/R;
 .end annotation
 
 .annotation system Ldalvik/annotation/InnerClass;
@@ -62,38 +62,6 @@
 .field public static btn_radio_to_on_mtrl_ring_outer_animation:I = 0x7f010016
 
 .field public static btn_radio_to_on_mtrl_ring_outer_path_animation:I = 0x7f010017
-
-.field public static design_bottom_sheet_slide_in:I = 0x7f010018
-
-.field public static design_bottom_sheet_slide_out:I = 0x7f010019
-
-.field public static design_snackbar_in:I = 0x7f01001a
-
-.field public static design_snackbar_out:I = 0x7f01001b
-
-.field public static fragment_fast_out_extra_slow_in:I = 0x7f01001c
-
-.field public static linear_indeterminate_line1_head_interpolator:I = 0x7f01001d
-
-.field public static linear_indeterminate_line1_tail_interpolator:I = 0x7f01001e
-
-.field public static linear_indeterminate_line2_head_interpolator:I = 0x7f01001f
-
-.field public static linear_indeterminate_line2_tail_interpolator:I = 0x7f010020
-
-.field public static m3_bottom_sheet_slide_in:I = 0x7f010021
-
-.field public static m3_bottom_sheet_slide_out:I = 0x7f010022
-
-.field public static m3_motion_fade_enter:I = 0x7f010023
-
-.field public static m3_motion_fade_exit:I = 0x7f010024
-
-.field public static mtrl_bottom_sheet_slide_in:I = 0x7f010029
-
-.field public static mtrl_bottom_sheet_slide_out:I = 0x7f01002a
-
-.field public static mtrl_card_lowers_interpolator:I = 0x7f01002b
 
 
 # direct methods

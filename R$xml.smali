@@ -1,11 +1,11 @@
-.class public final Lcom/appsflyer/R$xml;
+.class public final Lcom/appsflyer/unity/R$xml;
 .super Ljava/lang/Object;
 .source "SourceFile"
 
 
 # annotations
 .annotation system Ldalvik/annotation/EnclosingClass;
-    value = Lcom/appsflyer/R;
+    value = Lcom/appsflyer/unity/R;
 .end annotation
 
 .annotation system Ldalvik/annotation/InnerClass;
@@ -16,8 +16,6 @@
 
 # static fields
 .field public static appsflyer_backup_rules:I = 0x7f150000
-
-.field public static appsflyer_data_extraction_rules:I = 0x7f150001
 
 
 # direct methods

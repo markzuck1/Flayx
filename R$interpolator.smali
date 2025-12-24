@@ -1,11 +1,11 @@
-.class public final Lcom/appsflyer/R$interpolator;
+.class public final Lcom/appsflyer/unity/R$interpolator;
 .super Ljava/lang/Object;
 .source "SourceFile"
 
 
 # annotations
 .annotation system Ldalvik/annotation/EnclosingClass;
-    value = Lcom/appsflyer/R;
+    value = Lcom/appsflyer/unity/R;
 .end annotation
 
 .annotation system Ldalvik/annotation/InnerClass;
@@ -28,28 +28,6 @@
 .field public static btn_radio_to_on_mtrl_animation_interpolator_0:I = 0x7f0b0005
 
 .field public static fast_out_slow_in:I = 0x7f0b0006
-
-.field public static m3_sys_motion_easing_emphasized:I = 0x7f0b0007
-
-.field public static m3_sys_motion_easing_emphasized_accelerate:I = 0x7f0b0008
-
-.field public static m3_sys_motion_easing_emphasized_decelerate:I = 0x7f0b0009
-
-.field public static m3_sys_motion_easing_linear:I = 0x7f0b000a
-
-.field public static m3_sys_motion_easing_standard:I = 0x7f0b000b
-
-.field public static m3_sys_motion_easing_standard_accelerate:I = 0x7f0b000c
-
-.field public static m3_sys_motion_easing_standard_decelerate:I = 0x7f0b000d
-
-.field public static mtrl_fast_out_linear_in:I = 0x7f0b000e
-
-.field public static mtrl_fast_out_slow_in:I = 0x7f0b000f
-
-.field public static mtrl_linear:I = 0x7f0b0010
-
-.field public static mtrl_linear_out_slow_in:I = 0x7f0b0011
 
 
 # direct methods
